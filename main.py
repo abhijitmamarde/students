@@ -1,7 +1,7 @@
 sample_students = [
   ["aaa", 123],
   ["bbb", 125],
-  ["ccc", 124],
+  ["ccc", 124]
 ]
 
 """
